@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-/* main: printing without using printf */
+/* main: printing without using printf 
+*  Return: 0
+*/
 
 int main(void)
 {
