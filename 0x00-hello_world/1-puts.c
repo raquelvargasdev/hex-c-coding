@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/*
-* main: printing the phrase programming is like buildina multilingual puzzle 
+/**
+* main: prints programming is like buildina multilingual puzzle 
 * Return: 0
 */
 
