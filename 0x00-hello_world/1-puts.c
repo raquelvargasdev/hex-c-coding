@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main: prints programming is like building a multilingual puzzle
+* main: printing without printf 
 * Return: 0
 */
 
