@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main: printing without printf 
+* main: printing without printf.
 * Return: 0
 */
 
